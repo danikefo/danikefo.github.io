@@ -1,0 +1,26 @@
+@font-face {
+    font-family: "oswald";
+    src: url("fonts/oswald.ttf");
+    font-weight: 500;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+h1 {
+    color: rgb(175, 17, 17); 
+    font-family: 'Roboto', sans-serif;
+}
+
+h3 {
+    color: dark brown;
+    font-family: Roboto, sans-serif;
+}
+
+p {
+    color: grey;
+    font-size: 24px;
+}
+img {
+    width: 384px;
+    height: 256px;
+}
